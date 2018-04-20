@@ -1,1 +1,2 @@
-# Analizador de Codigo Especifico
+# Analizador de Código Especifico:
+![Autómata Finito](/Automata Finito.png)

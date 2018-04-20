@@ -1,0 +1,2213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generado por Microsoft Visio, SVG Export Automata Finito.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="19.5597in" height="13.34in"
+		viewBox="0 0 1408.3 960.478" xml:space="preserve" color-interpolation-filters="sRGB" class="st15">
+	<v:documentProperties v:langID="3082" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-4);stroke:#840f0e;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.6;stroke-width:1}
+		.st2 {fill:#840f0e;font-family:Aristotle Punk;font-size:1.00001em}
+		.st3 {marker-end:url(#mrkr5-21);stroke:#760d0c;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st4 {fill:#760d0c;fill-opacity:1;stroke:#760d0c;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st5 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st6 {fill:#320606;font-family:Aristotle Punk;font-size:1.00001em}
+		.st7 {fill:url(#grad0-4);stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.6;stroke-width:1}
+		.st8 {fill:#ffffff;font-family:Aristotle Punk;font-size:1.5em}
+		.st9 {marker-end:url(#mrkr5-62);stroke:#760d0c;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st10 {fill:#320606;font-family:Cambria Math;font-size:1.00001em}
+		.st11 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st12 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st13 {fill:#840f0e;font-family:Consolas;font-size:1.00001em}
+		.st14 {font-size:1em}
+		.st15 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-4" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(160 0.5 0.5)">
+			<stop offset="0.45" stop-color="#660b0a" stop-opacity="1"/>
+			<stop offset="0.45" stop-color="#760d0c" stop-opacity="1"/>
+			<stop offset="0.6" stop-color="#760d0c" stop-opacity="1"/>
+			<stop offset="0.6" stop-color="#6f0c0b" stop-opacity="1"/>
+			<stop offset="0.85" stop-color="#6f0c0b" stop-opacity="1"/>
+			<stop offset="0.85" stop-color="#540a09" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-18" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-21" class="st4" v:arrowType="5" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<marker id="mrkr5-62" class="st4" v:arrowType="5" v:arrowSize="2" v:setback="5.8" refX="-5.8" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Página-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Conector" v:index="0"/>
+		<v:layer v:name="Diagrama de flujo" v:index="1"/>
+		<g id="shape315-1" v:mID="315" v:groupContext="shape" transform="translate(941.886,-60.1375)">
+			<title>Estado inicial.315</title>
+			<desc>final_program</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="85.82" height="22.4037"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="-20.41" y="975.28" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>final_program</text>		</g>
+		<g id="shape163-6" v:mID="163" v:groupContext="shape" transform="translate(1261.73,560.183) rotate(90) scale(-1,1)">
+			<title>Estado inicial.163</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="41.64" height="22.4037" transform="rotate(180)"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="1.68" y="-968.08" transform="scale(1,-1)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape22-10" v:mID="22" v:groupContext="shape" transform="translate(326.768,1279.72) scale(1,-1)">
+			<title>Estado inicial</title>
+			<desc>leTrA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="37.98" height="22.4037"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="3.51" y="-968.08" transform="scale(1,-1)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>leTrA</text>		</g>
+		<g id="shape7-14" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(71.6496,-621.397)">
+			<title>Línea dirigida 1</title>
+			<desc>Inicio</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.5512" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L34.94 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="7.01594" y="941.94" width="27.0706" height="14.4001" class="st5"/>
+			<text x="7.02" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>Inicio</text>		</g>
+		<g id="shape9-24" v:mID="9" v:groupContext="shape" v:layerMember="1" transform="translate(112.752,-604.39)">
+			<title>Proceso (círculo).9</title>
+			<desc>1</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="14.84" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>1</text>		</g>
+		<g id="shape12-28" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(146.768,-621.397)">
+			<title>Línea dirigida 1.12</title>
+			<desc>`define program ´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="46.063" cy="949.14" width="99.61" height="17.0079"/>
+			<path d="M0 960.48 L85.97 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="1.75112" y="941.94" width="88.624" height="14.4001" class="st5"/>
+			<text x="1.75" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`define program ´</text>		</g>
+		<g id="shape13-36" v:mID="13" v:groupContext="shape" v:layerMember="1" transform="translate(238.894,-604.39)">
+			<title>Proceso (círculo).13</title>
+			<desc>2</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="13.18" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>2</text>		</g>
+		<g id="shape14-40" v:mID="14" v:groupContext="shape" v:layerMember="1" transform="translate(326.768,1279.72) scale(1,-1)">
+			<title>Proceso (círculo).14</title>
+			<desc>3</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="13.22" y="-938.07" transform="scale(1,-1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>3</text>		</g>
+		<g id="shape15-44" v:mID="15" v:groupContext="shape" v:layerMember="0"
+				transform="translate(222.428,-620.07) rotate(-3.01279)">
+			<title>Línea dirigida 1.15</title>
+			<desc>leTrA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="26.9664" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L47.77 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="13.4691" y="941.94" width="26.9945" height="14.4001" class="st5"/>
+			<text x="13.47" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>leTrA</text>		</g>
+		<g id="shape16-52" v:mID="16" v:groupContext="shape" v:layerMember="1" transform="translate(275.744,-301.082)">
+			<title>Proceso (círculo).16</title>
+			<desc>19</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="10.44" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>19</text>		</g>
+		<g id="shape20-56" v:mID="20" v:groupContext="shape" v:layerMember="0" transform="translate(355.302,-636.258) scale(-1,1)">
+			<title>Conector en curva 2</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M23.55 960.48 A19.9988 19.9988 -180 1 0 -4.36 956.13 L-4.11 956.38" class="st9"/>
+		</g>
+		<g id="shape23-63" v:mID="23" v:groupContext="shape" v:layerMember="0" transform="translate(360.783,-624.232)">
+			<title>Línea dirigida 1.23</title>
+			<desc>` () ´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L36.36 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="12.468" y="941.94" width="17.5839" height="14.4001" class="st5"/>
+			<text x="12.47" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>` () ´</text>		</g>
+		<g id="shape24-71" v:mID="24" v:groupContext="shape" v:layerMember="1" transform="translate(403.303,-607.224)">
+			<title>Proceso (círculo).24</title>
+			<desc>4</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="12.47" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>4</text>		</g>
+		<g id="shape25-75" v:mID="25" v:groupContext="shape" v:layerMember="0"
+				transform="translate(690.494,-590.264) rotate(15.2833)">
+			<title>Línea dirigida 1.25</title>
+			<desc>` $ ´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="49.5496" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L92.94 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="42.0176" y="941.94" width="15.0642" height="14.4001" class="st5"/>
+			<text x="42.02" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>` $ ´</text>		</g>
+		<g id="shape26-83" v:mID="26" v:groupContext="shape" v:layerMember="1" transform="translate(532.913,-581.102)">
+			<title>Proceso (círculo).26</title>
+			<desc>5</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="12.72" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>5</text>		</g>
+		<g id="shape27-87" v:mID="27" v:groupContext="shape" transform="translate(642.831,1315.15) scale(1,-1)">
+			<title>Estado inicial.27</title>
+			<desc>leTrA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="37.98" height="22.4037"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="3.51" y="-968.08" transform="scale(1,-1)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>leTrA</text>		</g>
+		<g id="shape28-91" v:mID="28" v:groupContext="shape" v:layerMember="1" transform="translate(642.831,-571.791)">
+			<title>Proceso (círculo).28</title>
+			<desc>6</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="12.55" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>6</text>		</g>
+		<g id="shape29-95" v:mID="29" v:groupContext="shape" v:layerMember="0"
+				transform="translate(683.88,-590.964) rotate(6.99386)">
+			<title>Línea dirigida 1.29</title>
+			<desc>leTrA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.2353" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L70.31 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="24.738" y="941.94" width="26.9945" height="14.4001" class="st5"/>
+			<text x="24.74" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>leTrA</text>		</g>
+		<g id="shape30-103" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(671.865,1320.13) rotate(180)">
+			<title>Conector en curva 2.30</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M24.05 960.48 A21.353 21.353 0 1 1 -4.54 964.65 L-4.27 964.4" class="st9"/>
+		</g>
+		<g id="shape31-109" v:mID="31" v:groupContext="shape" transform="translate(725.744,-542.027)">
+			<title>Estado inicial.31</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="37.5629" cy="923.632" width="41.64" height="22.4037" transform="rotate(45)"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="664.34" y="630.15" transform="rotate(45)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape32-113" v:mID="32" v:groupContext="shape" v:layerMember="1" transform="translate(725.744,-542.027)">
+			<title>Proceso (círculo).32</title>
+			<desc>7</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="13.21" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>7</text>		</g>
+		<g id="shape33-117" v:mID="33" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1176.24,-448.76) rotate(31.3287)">
+			<title>Línea dirigida 1.33</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.6219" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L51.08 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="13.2935" y="941.94" width="30.6568" height="14.4001" class="st5"/>
+			<text x="13.29" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape38-125" v:mID="38" v:groupContext="shape" v:layerMember="0" transform="translate(80.5992,1080.6) rotate(-135)">
+			<title>Conector en curva 2.38</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M24.05 960.48 A21.353 21.353 0 1 1 -4.54 964.65 L-4.27 964.4" class="st9"/>
+		</g>
+		<g id="shape56-131" v:mID="56" v:groupContext="shape" v:layerMember="1" transform="translate(638.619,-490.295)">
+			<title>Proceso (círculo).56</title>
+			<desc>8</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="12.81" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>8</text>		</g>
+		<g id="shape57-135" v:mID="57" v:groupContext="shape" v:layerMember="1" transform="translate(530.862,-410.543)">
+			<title>Proceso (círculo).57</title>
+			<desc>14</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="10.3" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>14</text>		</g>
+		<g id="group58-139" transform="translate(545.673,-368.405)" v:mID="58" v:groupContext="group">
+			<title>Hoja.58</title>
+			<g id="shape59-140" v:mID="59" v:groupContext="shape" v:layerMember="0"
+					transform="translate(724.326,1561.72) rotate(139.294)">
+				<title>Línea dirigida 1.40</title>
+				<desc>tIpo</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.9232" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+				<path d="M0 960.48 L97.69 960.48" class="st3"/>
+				<rect v:rectContext="textBkgnd" x="-61.9398" y="-979.017" width="20.0333" height="14.4001" transform="rotate(180)"
+						class="st5"/>
+				<text x="-61.94" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>tIpo</text>			</g>
+		</g>
+		<g id="shape61-148" v:mID="61" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1616.56,473.544) rotate(95.0686)">
+			<title>Línea dirigida 1.61</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.8334" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L41.51 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-27.5718" y="-979.228" width="7.47675" height="14.8228" transform="rotate(180)"
+					class="st5"/>
+			<text x="-27.57" y="-968.11" transform="rotate(180)" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape62-156" v:mID="62" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1272.72,1206.41) rotate(145.647)">
+			<title>Línea dirigida 1.62</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.1819" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L64.2 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-38.9203" y="-979.228" width="7.47675" height="14.8228" transform="rotate(180)"
+					class="st5"/>
+			<text x="-38.92" y="-968.11" transform="rotate(180)" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape71-164" v:mID="71" v:groupContext="shape" v:layerMember="1" transform="translate(552.122,-503.76)">
+			<title>Proceso (círculo).71</title>
+			<desc>9</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="12.61" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>9</text>		</g>
+		<g id="group72-168" transform="translate(545.673,-368.405)" v:mID="72" v:groupContext="group">
+			<title>Hoja.72</title>
+			<g id="shape73-169" v:mID="73" v:groupContext="shape" v:layerMember="0"
+					transform="translate(73.8967,1769.73) rotate(-178.566)">
+				<title>Línea dirigida 1.40</title>
+				<desc>tIpo</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="28.7405" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+				<path d="M0 960.48 L51.32 960.48" class="st3"/>
+				<rect v:rectContext="textBkgnd" x="-38.7571" y="-979.017" width="20.0333" height="14.4001" transform="rotate(180)"
+						class="st5"/>
+				<text x="-38.76" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>tIpo</text>			</g>
+		</g>
+		<g id="shape74-177" v:mID="74" v:groupContext="shape" v:layerMember="1" transform="translate(477.641,-491.004)">
+			<title>Proceso (círculo).74</title>
+			<desc>10</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="10.54" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>10</text>		</g>
+		<g id="shape78-181" v:mID="78" v:groupContext="shape" v:layerMember="1" transform="translate(661.297,-432.893)">
+			<title>Proceso (círculo).78</title>
+			<desc>15</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="10.55" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>15</text>		</g>
+		<g id="group79-185" transform="translate(615.902,1411.91) scale(1,-1)" v:mID="79" v:groupContext="group">
+			<title>Hoja.79</title>
+			<g id="shape80-186" v:mID="80" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-847.436,609.099) rotate(-69.4209)">
+				<title>Línea dirigida 1.40</title>
+				<desc>`[´</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="15.1504" cy="949.14" width="56.7" height="17.0079"/>
+				<path d="M0 960.48 L24.14 960.48" class="st3"/>
+				<rect v:rectContext="textBkgnd" x="11.2392" y="941.939" width="7.82227" height="14.4001" class="st11"/>
+				<text x="11.24" y="-945.54" transform="scale(1,-1)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`[´</text>			</g>
+		</g>
+		<g id="shape82-194" v:mID="82" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1227.36,1302.16) rotate(144.255)">
+			<title>Línea dirigida 1.82</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="43.7074" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L81.25 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-59.0359" y="-979.017" width="30.6568" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-59.04" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape85-202" v:mID="85" v:groupContext="shape" v:layerMember="1" transform="translate(566.295,-357.775)">
+			<title>Proceso (círculo).85</title>
+			<desc>16</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="10.38" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>16</text>		</g>
+		<g id="group86-206" transform="translate(-322.038,232.415) rotate(-70) scale(-1,1)" v:mID="86" v:groupContext="group">
+			<title>Hoja.86</title>
+			<g id="shape87-207" v:mID="87" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-567.1,218.272) rotate(-39.0304)">
+				<title>Línea dirigida 1.40</title>
+				<desc>`[´</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.1378" cy="949.14" width="56.7" height="17.0079"/>
+				<path d="M0 960.48 L64.12 960.48" class="st3"/>
+				<rect v:rectContext="textBkgnd" x="31.2267" y="941.94" width="7.82227" height="14.4001" class="st5"/>
+				<text x="-39.05" y="952.74" transform="scale(-1,1)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`[´</text>			</g>
+		</g>
+		<g id="shape88-215" v:mID="88" v:groupContext="shape" transform="translate(393.382,1354.83) scale(1,-1)">
+			<title>Estado inicial.88</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="41.64" height="22.4037"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="1.68" y="-968.08" transform="scale(1,-1)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape89-219" v:mID="89" v:groupContext="shape" v:layerMember="1" transform="translate(393.382,1354.83) scale(1,-1)">
+			<title>Proceso (círculo).89</title>
+			<desc>11</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="12.67" y="-938.07" transform="scale(1,-1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>11</text>		</g>
+		<g id="shape90-223" v:mID="90" v:groupContext="shape" v:layerMember="0"
+				transform="translate(30.1807,1302.35) rotate(-152.233)">
+			<title>Línea dirigida 1.90</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.2059" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+			<path d="M0 960.48 L56.25 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-46.5344" y="-979.017" width="30.6568" height="14.4001" transform="rotate(-180)"
+					class="st5"/>
+			<text x="-46.53" y="-968.22" transform="rotate(-180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape91-231" v:mID="91" v:groupContext="shape" v:layerMember="0" transform="translate(422.416,1359.82) rotate(180)">
+			<title>Conector en curva 2.91</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 960.48 A22.0718 22.0718 -180 1 0 29.14 964.59 L28.88 964.35" class="st9"/>
+		</g>
+		<g id="shape93-237" v:mID="93" v:groupContext="shape" v:layerMember="1" transform="translate(477.004,-309.586)">
+			<title>Proceso (círculo).93</title>
+			<desc>17</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="11.04" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>17</text>		</g>
+		<g id="shape94-241" v:mID="94" v:groupContext="shape" v:layerMember="1" transform="translate(365.084,-471.161)">
+			<title>Proceso (círculo).94</title>
+			<desc>12</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="11.01" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>12</text>		</g>
+		<g id="group95-245" transform="translate(-503.455,180.703) rotate(-70) scale(-1,1)" v:mID="95" v:groupContext="group">
+			<title>Hoja.95</title>
+		</g>
+		<g id="shape99-246" v:mID="99" v:groupContext="shape" v:layerMember="1" transform="translate(-625.207,560.183) rotate(-90)">
+			<title>Proceso (círculo).99</title>
+			<desc>13</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157" transform="rotate(90)"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="937.51" y="-11.61" transform="rotate(90)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>13</text>		</g>
+		<g id="shape100-250" v:mID="100" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1102.02,1106.24) rotate(130.353)">
+			<title>Línea dirigida 1.100</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.7146" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L55.27 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-46.0431" y="-979.017" width="30.6568" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-46.04" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape101-258" v:mID="101" v:groupContext="shape" v:layerMember="0" transform="translate(1266.72,531.149) rotate(90)">
+			<title>Conector en curva 2.101</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 960.48 A21.9967 21.9967 -180 1 0 28.69 964.54 L28.42 964.3" class="st9"/>
+		</g>
+		<g id="shape165-264" v:mID="165" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1212.7,910.181) rotate(111.371)">
+			<title>Línea dirigida 1.165</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.0053" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L63.85 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-38.7437" y="-979.228" width="7.47675" height="14.8228" transform="rotate(-180)"
+					class="st5"/>
+			<text x="-38.74" y="-968.11" transform="rotate(-180)" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape168-272" v:mID="168" v:groupContext="shape" v:layerMember="0"
+				transform="translate(86.5022,1581.23) rotate(-161.059)">
+			<title>Línea dirigida 1.168</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="46.7873" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+			<path d="M0 960.48 L87.41 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-50.5258" y="-979.228" width="7.47675" height="14.8228" transform="rotate(180)"
+					class="st5"/>
+			<text x="-50.53" y="-968.11" transform="rotate(180)" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape169-280" v:mID="169" v:groupContext="shape" v:layerMember="0"
+				transform="translate(915.977,1427.01) rotate(156.686)">
+			<title>Línea dirigida 1.169</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="123.093" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L240.03 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-126.831" y="-979.228" width="7.47675" height="14.8228" transform="rotate(180)"
+					class="st5"/>
+			<text x="-126.83" y="-968.11" transform="rotate(180)" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape173-288" v:mID="173" v:groupContext="shape" transform="translate(-607.088,53.8472) rotate(-60)">
+			<title>Hoja.173</title>
+			<desc>`;´</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76" cy="950.478" width="152" height="20"/>
+			<rect x="0" y="940.478" width="152" height="20" class="st12"/>
+			<text x="72.58" y="954.15" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`;´</text>		</g>
+		<g id="shape176-291" v:mID="176" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-599.926,247.775) rotate(-65.7417)">
+			<title>Conector en curva 2.176</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 960.48 A194.978 194.978 0 0 1 319.06 955.44 L319.27 955.73" class="st9"/>
+		</g>
+		<g id="shape181-297" v:mID="181" v:groupContext="shape" v:layerMember="1" transform="translate(165.193,-303.917)">
+			<title>Proceso (círculo).181</title>
+			<desc>20</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="8.88" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>20</text>		</g>
+		<g id="shape182-301" v:mID="182" v:groupContext="shape" v:layerMember="1" transform="translate(18.5,-258.563)">
+			<title>Proceso (círculo).182</title>
+			<desc>21</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="11.01" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>21</text>		</g>
+		<g id="shape183-305" v:mID="183" v:groupContext="shape" v:layerMember="0"
+				transform="translate(240.195,1602.21) rotate(-177.879)">
+			<title>Línea dirigida 1.183</title>
+			<desc>`;´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.294" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+			<path d="M0 960.48 L70.43 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-41.71" y="-979.017" width="6.83212" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-41.71" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`;´</text>		</g>
+		<g id="shape185-313" v:mID="185" v:groupContext="shape" v:layerMember="0"
+				transform="translate(523.837,1530.56) rotate(158.074)">
+			<title>Línea dirigida 1.185</title>
+			<desc>`dO´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.7313" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L115.3 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-70.5109" y="-979.017" width="19.559" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-70.51" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`dO´</text>		</g>
+		<g id="shape187-321" v:mID="187" v:groupContext="shape" v:layerMember="0"
+				transform="translate(457.767,-171.529) rotate(25.2845)">
+			<title>Línea dirigida 1.187</title>
+			<desc>` $ ´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.3338" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L78.51 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="34.8018" y="941.94" width="15.0642" height="14.4001" class="st5"/>
+			<text x="34.8" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>` $ ´</text>		</g>
+		<g id="shape188-329" v:mID="188" v:groupContext="shape" v:layerMember="1" transform="translate(124.091,-210.374)">
+			<title>Proceso (círculo).188</title>
+			<desc>22</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="9.35" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>22</text>		</g>
+		<g id="shape191-333" v:mID="191" v:groupContext="shape" v:layerMember="0" transform="translate(158.106,-227.382)">
+			<title>Línea dirigida 1.191</title>
+			<desc>leTrA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.7874" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L65.41 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="22.2901" y="941.94" width="26.9945" height="14.4001" class="st5"/>
+			<text x="22.29" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>leTrA</text>		</g>
+		<g id="shape193-341" v:mID="193" v:groupContext="shape" transform="translate(229.681,1676.57) scale(1,-1)">
+			<title>Estado inicial.193</title>
+			<desc>leTrA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="37.98" height="22.4037"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="3.51" y="-968.08" transform="scale(1,-1)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>leTrA</text>		</g>
+		<g id="shape194-345" v:mID="194" v:groupContext="shape" v:layerMember="1" transform="translate(229.681,-210.374)">
+			<title>Proceso (círculo).194</title>
+			<desc>23</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="9.39" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>23</text>		</g>
+		<g id="shape195-349" v:mID="195" v:groupContext="shape" v:layerMember="0"
+				transform="translate(258.715,1681.55) rotate(180)">
+			<title>Conector en curva 2.195</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M24.05 960.48 A21.353 21.353 0 1 1 -4.54 964.65 L-4.27 964.4" class="st9"/>
+		</g>
+		<g id="shape196-355" v:mID="196" v:groupContext="shape" transform="translate(312.594,-180.61)">
+			<title>Estado inicial.196</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="37.5629" cy="923.632" width="41.64" height="22.4037" transform="rotate(45)"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="664.34" y="630.15" transform="rotate(45)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape197-359" v:mID="197" v:groupContext="shape" v:layerMember="1" transform="translate(312.594,-180.61)">
+			<title>Proceso (círculo).197</title>
+			<desc>24</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="8.65" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>24</text>		</g>
+		<g id="shape198-363" v:mID="198" v:groupContext="shape" v:layerMember="0"
+				transform="translate(763.095,-87.3425) rotate(31.3287)">
+			<title>Línea dirigida 1.198</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.6219" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L51.08 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="13.2935" y="941.94" width="30.6568" height="14.4001" class="st5"/>
+			<text x="13.29" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape199-371" v:mID="199" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-332.55,1442.02) rotate(-135)">
+			<title>Conector en curva 2.199</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M24.05 960.48 A21.353 21.353 0 1 1 -4.54 964.65 L-4.27 964.4" class="st9"/>
+		</g>
+		<g id="shape200-377" v:mID="200" v:groupContext="shape" v:layerMember="1" transform="translate(225.47,-128.878)">
+			<title>Proceso (círculo).200</title>
+			<desc>25</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="8.9" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>25</text>		</g>
+		<g id="shape201-381" v:mID="201" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1203.41,834.962) rotate(95.0686)">
+			<title>Línea dirigida 1.201</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.8334" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L41.51 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-27.5718" y="-979.228" width="7.47675" height="14.8228" transform="rotate(180)"
+					class="st5"/>
+			<text x="-27.57" y="-968.11" transform="rotate(180)" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape202-389" v:mID="202" v:groupContext="shape" v:layerMember="0"
+				transform="translate(859.569,1567.83) rotate(145.647)">
+			<title>Línea dirigida 1.202</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.1819" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L64.2 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-38.9203" y="-979.228" width="7.47675" height="14.8228" transform="rotate(180)"
+					class="st5"/>
+			<text x="-38.92" y="-968.11" transform="rotate(180)" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape203-397" v:mID="203" v:groupContext="shape" v:layerMember="1" transform="translate(312.594,-112.578)">
+			<title>Proceso (círculo).203</title>
+			<desc>26</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="8.72" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>26</text>		</g>
+		<g id="shape204-401" v:mID="204" v:groupContext="shape" v:layerMember="1" transform="translate(411.807,-125.334)">
+			<title>Proceso (círculo).204</title>
+			<desc>27</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="9.38" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>27</text>		</g>
+		<g id="shape205-405" v:mID="205" v:groupContext="shape" v:layerMember="1" transform="translate(496.846,-153.681)">
+			<title>Proceso (círculo).205</title>
+			<desc>28</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="8.98" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>28</text>		</g>
+		<g id="shape206-409" v:mID="206" v:groupContext="shape" v:layerMember="0"
+				transform="translate(324.961,-131.271) rotate(4.2068)">
+			<title>Línea dirigida 1.206</title>
+			<desc>`[´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="29.1237" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L52.09 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="25.2125" y="941.94" width="7.82227" height="14.4001" class="st5"/>
+			<text x="25.21" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`[´</text>		</g>
+		<g id="shape207-417" v:mID="207" v:groupContext="shape" v:layerMember="0"
+				transform="translate(162.187,-111.714) rotate(-11.0702)">
+			<title>Línea dirigida 1.207</title>
+			<desc>`digito´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.2165" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L60.27 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="15.4974" y="941.94" width="35.438" height="14.4001" class="st5"/>
+			<text x="15.5" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`digito´</text>		</g>
+		<g id="shape210-425" v:mID="210" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-20.6266,-21.4731) rotate(-29.0546)">
+			<title>Línea dirigida 1.210</title>
+			<desc>`]´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="29.1845" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L52.21 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="25.2529" y="941.94" width="7.86319" height="14.4001" class="st5"/>
+			<text x="25.25" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`]´</text>		</g>
+		<g id="shape211-433" v:mID="211" v:groupContext="shape" v:layerMember="1" transform="translate(567.713,-196.201)">
+			<title>Proceso (círculo).211</title>
+			<desc>29</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="8.78" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>29</text>		</g>
+		<g id="shape213-437" v:mID="213" v:groupContext="shape" v:layerMember="0"
+				transform="translate(173.424,-115.709) rotate(-21.5282)">
+			<title>Línea dirigida 1.213</title>
+			<desc>`=´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.1621" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L44.16 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="19.5136" y="941.94" width="11.297" height="14.4001" class="st5"/>
+			<text x="19.51" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`=´</text>		</g>
+		<g id="shape214-445" v:mID="214" v:groupContext="shape" transform="translate(-97.9625,752.939) rotate(-90)">
+			<title>Estado inicial.214</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="41.64" height="22.4037" transform="rotate(180)"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="-32.34" y="-968.08" transform="rotate(180)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape216-449" v:mID="216" v:groupContext="shape" transform="translate(658.421,1594.36) rotate(180)">
+			<title>Estado inicial.216</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="41.64" height="22.4037" transform="rotate(180)"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="-32.34" y="-968.08" transform="rotate(180)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape217-453" v:mID="217" v:groupContext="shape" v:layerMember="1"
+				transform="translate(658.421,1594.36) rotate(180)">
+			<title>Proceso (círculo).217</title>
+			<desc>30</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157" transform="rotate(180)"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="-25.1" y="-938.07" transform="rotate(180)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>30</text>		</g>
+		<g id="shape218-457" v:mID="218" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-215.701,199.372) rotate(-56.4452)">
+			<title>Línea dirigida 1.218</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="40.4051" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L74.65 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="25.0766" y="941.94" width="30.6568" height="14.4001" class="st5"/>
+			<text x="25.08" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape219-465" v:mID="219" v:groupContext="shape" v:layerMember="0" transform="translate(653.44,1599.34) rotate(180)">
+			<title>Conector en curva 2.219</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M24.05 960.48 A21.9967 21.9967 0 1 1 -4.64 964.54 L-4.36 964.3" class="st9"/>
+		</g>
+		<g id="shape220-471" v:mID="220" v:groupContext="shape" v:layerMember="1"
+				transform="translate(715.114,-241.555) scale(-1,1)">
+			<title>Proceso (círculo).220</title>
+			<desc>31</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="-22.97" y="948.87" transform="scale(-1,1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>31</text>		</g>
+		<g id="shape221-475" v:mID="221" v:groupContext="shape" v:layerMember="1"
+				transform="translate(862.516,-207.539) scale(-1,1)">
+			<title>Proceso (círculo).221</title>
+			<desc>32</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="-24.63" y="948.87" transform="scale(-1,1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>32</text>		</g>
+		<g id="shape222-479" v:mID="222" v:groupContext="shape" v:layerMember="0"
+				transform="translate(890.543,-242.406) rotate(10.524)">
+			<title>Línea dirigida 1.222</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.1963" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L114.23 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="44.8678" y="941.94" width="30.6568" height="14.4001" class="st5"/>
+			<text x="44.87" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="group224-487" transform="translate(698.106,-18) scale(-1,1)" v:mID="224" v:groupContext="group">
+			<title>Hoja.224</title>
+			<g id="shape225-488" v:mID="225" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-317.868,1624.57) rotate(-154.362)">
+				<title>Línea dirigida 1.40</title>
+				<desc>`.´</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="44.7624" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+				<path d="M0 960.48 L83.36 960.48" class="st3"/>
+				<rect v:rectContext="textBkgnd" x="41.3346" y="964.617" width="6.85547" height="14.4001" class="st5"/>
+				<text x="41.33" y="-968.22" transform="scale(1,-1)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`.´</text>			</g>
+		</g>
+		<g id="group226-496" transform="translate(-74.2933,456.87) rotate(-70) scale(-1,1)" v:mID="226" v:groupContext="group">
+			<title>Hoja.226</title>
+			<g id="shape227-497" v:mID="227" v:groupContext="shape" v:layerMember="0"
+					transform="translate(849.733,432.642) rotate(70.4328)">
+				<title>Línea dirigida 1.40</title>
+				<desc>`.´</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="21.1708" cy="949.14" width="56.7" height="17.0079"/>
+				<path d="M0 960.48 L36.18 960.48" class="st3"/>
+				<rect v:rectContext="textBkgnd" x="17.7431" y="941.94" width="6.85547" height="14.4001" class="st5"/>
+				<text x="-24.6" y="952.74" transform="scale(-1,1)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`.´</text>			</g>
+		</g>
+		<g id="shape228-505" v:mID="228" v:groupContext="shape" v:layerMember="0"
+				transform="translate(95.8908,-256.663) rotate(3.60442)">
+			<title>Conector en curva 2.228</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M811.61 960.48 A507.175 507.175 0 0 1 3.72 965.38 L3.51 965.1" class="st9"/>
+		</g>
+		<g id="shape229-511" v:mID="229" v:groupContext="shape" transform="translate(384.63,-28.3465)">
+			<title>Hoja.229</title>
+			<desc>`;´</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76" cy="950.478" width="152" height="20"/>
+			<rect x="0" y="940.478" width="152" height="20" class="st12"/>
+			<text x="72.58" y="954.15" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`;´</text>		</g>
+		<g id="shape230-514" v:mID="230" v:groupContext="shape" v:layerMember="0" transform="translate(1818.01,723.905) rotate(90)">
+			<title>Conector en curva 2.230</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 960.48 A20.7143 20.7143 0 1 1 28.48 956.2 L28.22 956.45" class="st9"/>
+		</g>
+		<g id="shape231-520" v:mID="231" v:groupContext="shape" v:layerMember="1"
+				transform="translate(790.314,-315.256) scale(-1,1)">
+			<title>Proceso (círculo).231</title>
+			<desc>33</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="-24.59" y="948.87" transform="scale(-1,1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>33</text>		</g>
+		<g id="shape232-524" v:mID="232" v:groupContext="shape" v:layerMember="0"
+				transform="translate(82.577,1302.41) rotate(-127.409)">
+			<title>Línea dirigida 1.232</title>
+			<desc>`;´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="49.5278" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+			<path d="M0 960.48 L92.9 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-52.9438" y="-979.017" width="6.83212" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-52.94" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`;´</text>		</g>
+		<g id="shape233-532" v:mID="233" v:groupContext="shape" v:layerMember="1"
+				transform="translate(848.343,-390.756) scale(-1,1)">
+			<title>Proceso (círculo).233</title>
+			<desc>34</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="-25.34" y="948.87" transform="scale(-1,1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>34</text>		</g>
+		<g id="shape234-536" v:mID="234" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-16.143,86.8906) rotate(-56.5591)">
+			<title>Línea dirigida 1.234</title>
+			<desc>`WHIle (´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.827" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L55.49 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="12.4666" y="941.94" width="36.7207" height="14.4001" class="st5"/>
+			<text x="12.47" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`WHIle (´</text>		</g>
+		<g id="shape237-544" v:mID="237" v:groupContext="shape" transform="translate(864.567,1376.7) rotate(180)">
+			<title>Estado inicial.237</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="41.64" height="22.4037" transform="rotate(180)"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="-32.34" y="-968.08" transform="rotate(180)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape238-548" v:mID="238" v:groupContext="shape" v:layerMember="1" transform="translate(864.567,1376.7) rotate(180)">
+			<title>Proceso (círculo).238</title>
+			<desc>38</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157" transform="rotate(180)"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="-25" y="-938.07" transform="rotate(180)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>38</text>		</g>
+		<g id="shape240-552" v:mID="240" v:groupContext="shape" v:layerMember="0"
+				transform="translate(859.585,1381.69) rotate(180)">
+			<title>Conector en curva 2.240</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M24.05 960.48 A21.9967 21.9967 0 1 1 -4.64 964.54 L-4.36 964.3" class="st9"/>
+		</g>
+		<g id="shape241-558" v:mID="241" v:groupContext="shape" v:layerMember="1"
+				transform="translate(967.398,-496.673) scale(-1,1)">
+			<title>Proceso (círculo).241</title>
+			<desc>39</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="-25.2" y="948.87" transform="scale(-1,1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>39</text>		</g>
+		<g id="shape249-562" v:mID="249" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1352.54,533.196) rotate(96.5646)">
+			<title>Línea dirigida 1.249</title>
+			<desc>`.´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="18.5678" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L30.98 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-21.9956" y="-979.017" width="6.85547" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-22" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`.´</text>		</g>
+		<g id="shape251-570" v:mID="251" v:groupContext="shape" v:layerMember="0"
+				transform="translate(436.984,1423.89) rotate(-177.276)">
+			<title>Línea dirigida 1.251</title>
+			<desc>`.´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.3025" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+			<path d="M0 960.48 L82.45 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-47.7303" y="-979.017" width="6.85547" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-47.73" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`.´</text>		</g>
+		<g id="shape252-578" v:mID="252" v:groupContext="shape" v:layerMember="0"
+				transform="translate(935.038,1311.75) rotate(151.899)">
+			<title>Línea dirigida 1.252</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.5214" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L160.88 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-98.8499" y="-979.017" width="30.6568" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-98.85" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape253-586" v:mID="253" v:groupContext="shape" v:layerMember="0"
+				transform="translate(840.889,1355.75) rotate(162.503)">
+			<title>Línea dirigida 1.253</title>
+			<desc>`=´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2139" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L36.27 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-26.8624" y="-979.017" width="11.297" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-26.86" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`=´</text>		</g>
+		<g id="shape254-594" v:mID="254" v:groupContext="shape" v:layerMember="0"
+				transform="translate(553.764,-212.01) rotate(-2.86241)">
+			<title>Línea dirigida 1.254</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="113.527" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L220.89 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="98.199" y="941.94" width="30.6568" height="14.4001" class="st5"/>
+			<text x="98.2" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape255-602" v:mID="255" v:groupContext="shape" v:layerMember="0"
+				transform="translate(879.584,-515.009) rotate(1.19305)">
+			<title>Línea dirigida 1.255</title>
+			<desc>`.´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="36.9062" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L67.65 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="33.4784" y="941.94" width="6.85547" height="14.4001" class="st5"/>
+			<text x="33.48" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`.´</text>		</g>
+		<g id="shape256-610" v:mID="256" v:groupContext="shape" v:layerMember="0"
+				transform="translate(270.977,-244.369) rotate(-35.6911)">
+			<title>Línea dirigida 1.256</title>
+			<desc>`.´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="65.8903" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L125.62 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="62.4625" y="941.94" width="6.85547" height="14.4001" class="st5"/>
+			<text x="62.46" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`.´</text>		</g>
+		<g id="shape257-618" v:mID="257" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1218.21,1414.82) rotate(-23.7531) scale(1,-1)">
+			<title>Línea dirigida 1.257</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="106.846" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L207.53 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="91.5178" y="941.939" width="30.6568" height="14.4001" class="st5"/>
+			<text x="91.52" y="-945.54" transform="scale(1,-1)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape258-626" v:mID="258" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1013.08,-512.594) rotate(2.72631)">
+			<title>Línea dirigida 1.258</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="29.7975" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L53.44 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="14.469" y="941.94" width="30.6568" height="14.4001" class="st5"/>
+			<text x="14.47" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape259-634" v:mID="259" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-112.291,356.571) rotate(-79.251)">
+			<title>Línea dirigida 1.259</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="43.4955" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L80.83 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="28.167" y="941.94" width="30.6568" height="14.4001" class="st5"/>
+			<text x="28.17" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape260-642" v:mID="260" v:groupContext="shape" v:layerMember="1" transform="translate(933.382,-390.756)">
+			<title>Proceso (círculo).260</title>
+			<desc>35</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="8.93" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>35</text>		</g>
+		<g id="shape261-646" v:mID="261" v:groupContext="shape" v:layerMember="0"
+				transform="translate(734.814,-379.178) rotate(-14.0137)">
+			<title>Línea dirigida 1.261</title>
+			<desc>leTrA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="34.3288" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L62.5 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="20.8315" y="941.94" width="26.9945" height="14.4001" class="st5"/>
+			<text x="20.83" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>leTrA</text>		</g>
+		<g id="shape262-654" v:mID="262" v:groupContext="shape" transform="translate(1034.01,-407.382)">
+			<title>Estado inicial.262</title>
+			<desc>leTrA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="37.98" height="22.4037"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="3.51" y="975.28" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>leTrA</text>		</g>
+		<g id="shape263-658" v:mID="263" v:groupContext="shape" v:layerMember="1"
+				transform="translate(1034.01,1479.56) scale(1,-1)">
+			<title>Proceso (círculo).263</title>
+			<desc>36</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="8.76" y="-938.07" transform="scale(1,-1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>36</text>		</g>
+		<g id="shape264-662" v:mID="264" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1063.05,-412.363) scale(-1,1)">
+			<title>Conector en curva 2.264</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M24.05 960.48 A21.353 21.353 0 1 1 -4.54 964.65 L-4.27 964.4" class="st9"/>
+		</g>
+		<g id="shape267-668" v:mID="267" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1126.61,-422.601) rotate(3.49699)">
+			<title>Línea dirigida 1.267</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="40.8345" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L75.51 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="25.506" y="941.94" width="30.6568" height="14.4001" class="st5"/>
+			<text x="25.51" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape269-676" v:mID="269" v:groupContext="shape" v:layerMember="1" transform="translate(1106.3,-493.838)">
+			<title>Proceso (círculo).269</title>
+			<desc>41</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="10.3" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>41</text>		</g>
+		<g id="shape270-680" v:mID="270" v:groupContext="shape" v:layerMember="0"
+				transform="translate(237.57,53.5348) rotate(-59.8404)">
+			<title>Línea dirigida 1.270</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="43.0417" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L79.92 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="39.3033" y="941.729" width="7.47675" height="14.8228" class="st5"/>
+			<text x="39.3" y="952.85" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape271-688" v:mID="271" v:groupContext="shape" v:layerMember="0"
+				transform="translate(320.347,999.62) rotate(-118.856)">
+			<title>Línea dirigida 1.271</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.6471" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+			<path d="M0 960.48 L73.13 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-43.3855" y="-979.228" width="7.47675" height="14.8228" transform="rotate(-180)"
+					class="st5"/>
+			<text x="-43.39" y="-968.11" transform="rotate(-180)" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape274-696" v:mID="274" v:groupContext="shape" v:layerMember="0" transform="translate(848.343,-407.764)">
+			<title>Línea dirigida 1.274</title>
+			<desc>` $ ´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.5197" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L78.88 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="34.9877" y="941.94" width="15.0642" height="14.4001" class="st5"/>
+			<text x="34.99" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>` $ ´</text>		</g>
+		<g id="shape275-704" v:mID="275" v:groupContext="shape" transform="translate(1060.94,1393.1) rotate(180)">
+			<title>Estado inicial.275</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="41.64" height="22.4037" transform="rotate(180)"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="-32.34" y="-968.08" transform="rotate(180)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape276-708" v:mID="276" v:groupContext="shape" v:layerMember="1" transform="translate(1060.94,1393.1) rotate(180)">
+			<title>Proceso (círculo).276</title>
+			<desc>40</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157" transform="rotate(180)"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="-25.84" y="-938.07" transform="rotate(180)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>40</text>		</g>
+		<g id="shape277-712" v:mID="277" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1055.96,1398.08) rotate(180)">
+			<title>Conector en curva 2.277</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M24.05 960.48 A21.9967 21.9967 0 1 1 -4.64 964.54 L-4.36 964.3" class="st9"/>
+		</g>
+		<g id="shape278-718" v:mID="278" v:groupContext="shape" transform="translate(1144.56,-390.374)">
+			<title>Estado inicial.278</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="41.64" height="22.4037"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="1.68" y="975.28" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape279-722" v:mID="279" v:groupContext="shape" v:layerMember="1"
+				transform="translate(1144.56,1496.57) scale(1,-1)">
+			<title>Proceso (círculo).279</title>
+			<desc>37</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="9.41" y="-938.07" transform="scale(1,-1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>37</text>		</g>
+		<g id="shape280-726" v:mID="280" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1173.6,-395.355) scale(-1,1)">
+			<title>Conector en curva 2.280</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M24.05 960.48 A21.353 21.353 0 1 1 -4.54 964.65 L-4.27 964.4" class="st9"/>
+		</g>
+		<g id="shape282-732" v:mID="282" v:groupContext="shape" v:layerMember="0" transform="translate(1060.94,-510.846)">
+			<title>Línea dirigida 1.282</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L39.19 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="18.9387" y="941.729" width="7.47675" height="14.8228" class="st5"/>
+			<text x="18.94" y="952.85" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape284-740" v:mID="284" v:groupContext="shape" v:layerMember="1"
+				transform="translate(1355.78,1644.54) scale(1,-1)">
+			<title>Proceso (círculo).284</title>
+			<desc>42</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="8.65" y="-938.07" transform="scale(1,-1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>42</text>		</g>
+		<g id="shape285-744" v:mID="285" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1791.9,-239.361) rotate(43.1249)">
+			<title>Línea dirigida 1.285</title>
+			<desc>Operadores</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="162.675" cy="949.14" width="72.33" height="17.0079"/>
+			<path d="M0 960.48 L319.19 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="132.001" y="941.94" width="61.3485" height="14.4001" class="st5"/>
+			<text x="132" y="952.74" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>Operadores</text>		</g>
+		<g id="shape286-752" v:mID="286" v:groupContext="shape" transform="translate(1330.27,-110.968)">
+			<title>Estado inicial.286</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="41.64" height="22.4037"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="1.68" y="975.28" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape287-756" v:mID="287" v:groupContext="shape" v:layerMember="1" transform="translate(1330.27,-110.968)">
+			<title>Proceso (círculo).287</title>
+			<desc>46</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="8.02" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>46</text>		</g>
+		<g id="shape288-760" v:mID="288" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1359.31,-115.95) scale(-1,1)">
+			<title>Conector en curva 2.288</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 960.48 A21.9967 21.9967 -180 1 0 28.69 964.54 L28.42 964.3" class="st9"/>
+		</g>
+		<g id="shape289-766" v:mID="289" v:groupContext="shape" v:layerMember="1"
+				transform="translate(1236.73,1750.46) scale(1,-1)">
+			<title>Proceso (círculo).289</title>
+			<desc>47</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="8.67" y="-938.07" transform="scale(1,-1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>47</text>		</g>
+		<g id="shape290-770" v:mID="290" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1138.72,1760.63) rotate(-168.193)">
+			<title>Línea dirigida 1.290</title>
+			<desc>`.´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="32.9518" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+			<path d="M0 960.48 L59.74 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-36.3796" y="-979.017" width="6.85547" height="14.4001" transform="rotate(-180)"
+					class="st5"/>
+			<text x="-36.38" y="-968.22" transform="rotate(-180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`.´</text>		</g>
+		<g id="shape291-778" v:mID="291" v:groupContext="shape" v:layerMember="0"
+				transform="translate(2003.73,1442.26) rotate(138.936)">
+			<title>Línea dirigida 1.291</title>
+			<desc>`.´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="67.6729" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L129.19 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-71.1007" y="-979.017" width="6.85547" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-71.1" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`.´</text>		</g>
+		<g id="shape292-786" v:mID="292" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1040.14,-182.954) rotate(-20.2634) scale(-1,1)">
+			<title>Línea dirigida 1.292</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="106.902" cy="971.817" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L207.64 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="91.5738" y="964.617" width="30.6568" height="14.4001" class="st5"/>
+			<text x="-122.23" y="975.42" transform="scale(-1,1)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape293-794" v:mID="293" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1191.04,1766.38) rotate(-177.274)">
+			<title>Línea dirigida 1.293</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="29.7975" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+			<path d="M0 960.48 L53.44 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-45.126" y="-979.017" width="30.6568" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-45.13" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape294-802" v:mID="294" v:groupContext="shape" v:layerMember="0"
+				transform="translate(2325.05,843.494) rotate(97.5027)">
+			<title>Línea dirigida 1.294</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="51.6394" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L97.12 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-66.9679" y="-979.017" width="30.6568" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-66.97" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape295-810" v:mID="295" v:groupContext="shape" v:layerMember="1"
+				transform="translate(1270.74,1644.54) rotate(180)">
+			<title>Proceso (círculo).295</title>
+			<desc>43</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157" transform="rotate(180)"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="-25.34" y="-938.07" transform="rotate(180)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>43</text>		</g>
+		<g id="shape296-814" v:mID="296" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1469.31,1632.97) rotate(165.986)">
+			<title>Línea dirigida 1.296</title>
+			<desc>leTrA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="34.3288" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L62.5 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-47.8261" y="-979.017" width="26.9945" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-47.83" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>leTrA</text>		</g>
+		<g id="shape297-822" v:mID="297" v:groupContext="shape" transform="translate(1170.11,1661.17) rotate(180)">
+			<title>Estado inicial.297</title>
+			<desc>leTrA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="37.98" height="22.4037" transform="rotate(180)"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="-30.51" y="-968.08" transform="rotate(180)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>leTrA</text>		</g>
+		<g id="shape298-826" v:mID="298" v:groupContext="shape" v:layerMember="1"
+				transform="translate(1170.11,-225.772) scale(-1,1)">
+			<title>Proceso (círculo).298</title>
+			<desc>44</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="-26.08" y="948.87" transform="scale(-1,1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>44</text>		</g>
+		<g id="shape299-830" v:mID="299" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1165.13,1666.15) rotate(180)">
+			<title>Conector en curva 2.299</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 960.48 A21.353 21.353 -180 1 0 28.59 964.65 L28.32 964.4" class="st9"/>
+		</g>
+		<g id="shape300-836" v:mID="300" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1077.51,1676.39) rotate(-176.503)">
+			<title>Línea dirigida 1.300</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="40.8345" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+			<path d="M0 960.48 L75.51 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-56.163" y="-979.017" width="30.6568" height="14.4001" transform="rotate(-180)"
+					class="st5"/>
+			<text x="-56.16" y="-968.22" transform="rotate(-180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape301-844" v:mID="301" v:groupContext="shape" v:layerMember="1"
+				transform="translate(1069.48,1747.63) rotate(180)">
+			<title>Proceso (círculo).301</title>
+			<desc>49</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157" transform="rotate(180)"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="-25.94" y="-938.07" transform="rotate(180)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>49</text>		</g>
+		<g id="shape302-848" v:mID="302" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1828.31,1383.55) rotate(133.888)">
+			<title>Línea dirigida 1.302</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="51.6377" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L97.12 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-55.3762" y="-979.228" width="7.47675" height="14.8228" transform="rotate(180)"
+					class="st5"/>
+			<text x="-55.38" y="-968.11" transform="rotate(180)" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape303-856" v:mID="303" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1993.38,581.867) rotate(81.8699)">
+			<title>Línea dirigida 1.303</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.077" cy="949.14" width="56.7" height="17.0079"/>
+			<path d="M0 960.48 L63.99 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="31.3385" y="941.729" width="7.47675" height="14.8228" class="st5"/>
+			<text x="31.34" y="952.85" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape304-864" v:mID="304" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1355.78,1661.55) rotate(180)">
+			<title>Línea dirigida 1.304</title>
+			<desc>` $ ´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.5197" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+			<path d="M0 960.48 L78.88 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-50.0517" y="-979.017" width="15.0642" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-50.05" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>` $ ´</text>		</g>
+		<g id="shape305-872" v:mID="305" v:groupContext="shape" transform="translate(1143.19,-139.315)">
+			<title>Estado inicial.305</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="41.64" height="22.4037"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="1.68" y="975.28" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape306-876" v:mID="306" v:groupContext="shape" v:layerMember="1" transform="translate(1143.19,-139.315)">
+			<title>Proceso (círculo).306</title>
+			<desc>48</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="8.27" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>48</text>		</g>
+		<g id="shape307-880" v:mID="307" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1172.22,-144.296) scale(-1,1)">
+			<title>Conector en curva 2.307</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 960.48 A21.9967 21.9967 -180 1 0 28.69 964.54 L28.42 964.3" class="st9"/>
+		</g>
+		<g id="shape308-886" v:mID="308" v:groupContext="shape" transform="translate(1059.56,1644.16) rotate(180)">
+			<title>Estado inicial.308</title>
+			<desc>digito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="971.68" width="41.64" height="22.4037" transform="rotate(180)"/>
+			<ellipse cx="17.0079" cy="943.47" rx="17.0079" ry="17.0079" class="st1"/>
+			<text x="-32.34" y="-968.08" transform="rotate(180)" class="st2" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>digito</text>		</g>
+		<g id="shape309-890" v:mID="309" v:groupContext="shape" v:layerMember="1"
+				transform="translate(1059.56,-242.779) scale(-1,1)">
+			<title>Proceso (círculo).309</title>
+			<desc>45</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="-25.83" y="948.87" transform="scale(-1,1)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>45</text>		</g>
+		<g id="shape310-894" v:mID="310" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1054.58,1649.14) rotate(180)">
+			<title>Conector en curva 2.310</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 960.48 A21.353 21.353 -180 1 0 28.59 964.65 L28.32 964.4" class="st9"/>
+		</g>
+		<g id="shape311-900" v:mID="311" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1143.19,1764.63) rotate(180)">
+			<title>Línea dirigida 1.311</title>
+			<desc>∈</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="36.8504" cy="971.817" width="56.7" height="17.0079" transform="rotate(180)"/>
+			<path d="M0 960.48 L67.54 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-40.5888" y="-979.228" width="7.47675" height="14.8228" transform="rotate(180)"
+					class="st5"/>
+			<text x="-40.59" y="-968.11" transform="rotate(180)" class="st10" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>∈</text>		</g>
+		<g id="shape312-908" v:mID="312" v:groupContext="shape" v:layerMember="1" transform="translate(975.902,1826.8) rotate(180)">
+			<title>Proceso (círculo).10</title>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+		</g>
+		<g id="shape313-911" v:mID="313" v:groupContext="shape" v:layerMember="1"
+				transform="translate(972.358,1830.35) rotate(180)">
+			<title>Proceso (círculo).8</title>
+			<desc>50</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.4646" cy="947.014" width="26.93" height="26.9291" transform="rotate(180)"/>
+			<path d="M0 947.01 A13.4646 13.4646 0 0 1 26.93 947.01 A13.4646 13.4646 0 1 1 0 947.01 Z" class="st7"/>
+			<text x="-22.05" y="-941.61" transform="rotate(180)" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>50</text>		</g>
+		<g id="shape314-915" v:mID="314" v:groupContext="shape" v:layerMember="0"
+				transform="translate(1637.15,1568.82) rotate(141.592)">
+			<title>Línea dirigida 1.314</title>
+			<desc>`) end´</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.3654" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L82.57 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-58.9877" y="-979.017" width="29.2445" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-58.99" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>`) end´</text>		</g>
+		<g id="shape317-923" v:mID="317" v:groupContext="shape" transform="translate(283.965,-706.478)">
+			<title>Hoja.317</title>
+			<desc>#CODIGO_FUENTE-&#62;&#39;DEFINE PROGRAM &#39;NOMBRE&#39;()&#39;CUERPO NOMBRE-&#62;LET...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="229.043" cy="844.183" width="458.09" height="232.591"/>
+			<rect x="0" y="727.888" width="458.087" height="232.591" class="st12"/>
+			<text x="0.333em" y="739.78" class="st13" v:langID="3082"><v:paragraph v:horizAlign="3"/><v:tabList/>#<tspan x="0.883em
+							 1.433em 1.983em 2.533em 3.082em 3.632em" dy="0em" class="st14">CODIGO</tspan><tspan x="4.182em"
+						dy="0em" class="st14">_</tspan><tspan x="4.732em 5.282em 5.831em 6.381em 6.931em 7.481em" dy="0em"
+						class="st14">FUENTE</tspan><tspan x="8.031em" dy="0em" class="st14">-</tspan><tspan x="8.581em 9.13em"
+						dy="0em" class="st14">&#62;&#39;</tspan><tspan x="9.68em 10.23em 10.78em 11.33em 11.879em 12.429em 12.979em
+							 13.529em 14.079em 14.629em 15.178em 15.728em 16.278em 16.828em 17.378em" dy="0em" class="st14">DEFINE PROGRAM </tspan><tspan
+						x="17.927em" dy="0em" class="st14">&#39;</tspan><tspan x="18.477em 19.027em 19.577em 20.127em 20.677em 21.226em"
+						dy="0em" class="st14">NOMBRE</tspan><tspan x="21.776em" dy="0em" class="st14">&#39;</tspan><tspan x="22.326em
+							 22.876em" dy="0em" class="st14">()</tspan><tspan x="23.426em" dy="0em" class="st14">&#39;</tspan><tspan
+						x="23.975em 24.525em 25.075em 25.625em 26.175em 26.724em" dy="0em" class="st14">CUERPO<v:newlineChar/></tspan><tspan
+						x="0.333em 0.883em 1.433em 1.983em 2.533em 3.082em" dy="1.2em" class="st14">NOMBRE</tspan><tspan x="3.632em"
+						dy="0em" class="st14">-</tspan><tspan x="4.182em" dy="0em" class="st14">&#62;</tspan><tspan x="4.732em 5.282em
+							 5.831em 6.381em 6.931em" dy="0em" class="st14">LETRA</tspan><tspan x="7.481em" dy="0em" class="st14">+<v:newlineChar/></tspan><tspan
+						x="0.333em 0.883em 1.433em 1.983em 2.533em" dy="1.2em" class="st14">LETRA</tspan><tspan x="3.082em"
+						dy="0em" class="st14">-</tspan><tspan x="3.632em" dy="0em" class="st14">&#62;</tspan><tspan x="4.182em"
+						dy="0em" class="st14">[</tspan><tspan x="4.732em" dy="0em" class="st14">a</tspan><tspan x="5.282em"
+						dy="0em" class="st14">-</tspan><tspan x="5.831em" dy="0em" class="st14">Z</tspan><tspan x="6.381em"
+						dy="0em" class="st14">]<v:newlineChar/></tspan><tspan x="0.333em" dy="1.2em" class="st14">#</tspan><tspan
+						x="0.883em 1.433em 1.983em 2.533em 3.082em 3.632em" dy="0em" class="st14">CUERPO</tspan><tspan x="4.182em"
+						dy="0em" class="st14">-</tspan><tspan x="4.732em" dy="0em" class="st14">&#62;</tspan><tspan x="5.282em 5.831em
+							 6.381em 6.931em 7.481em 8.031em 8.581em 9.13em 9.68em 10.23em 10.78em" dy="0em" class="st14">DECLARACION</tspan><tspan
+						x="11.33em" dy="0em" class="st14">+</tspan><tspan x="11.879em" dy="0em" class="st14">&#39;</tspan><tspan
+						x="12.429em 12.979em" dy="0em" class="st14">DO</tspan><tspan x="13.529em" dy="0em" class="st14">&#39;</tspan><tspan
+						x="14.079em 14.629em 15.178em 15.728em 16.278em 16.828em 17.378em 17.927em 18.477em 19.027em" dy="0em"
+						class="st14">DESARROLLO<v:newlineChar/></tspan><tspan x="0.333em 0.883em 1.433em 1.983em 2.533em 3.082em
+							 3.632em 4.182em 4.732em 5.282em 5.831em" dy="1.2em" class="st14">DECLARACION</tspan><tspan x="6.381em"
+						dy="0em" class="st14">-</tspan><tspan x="6.931em" dy="0em" class="st14">&#62;</tspan><tspan x="7.481em 8.031em
+							 8.581em 9.13em 9.68em 10.23em 10.78em 11.33em" dy="0em" class="st14">VARIABLE</tspan><tspan x="11.879em
+							 12.429em 12.979em" dy="0em" class="st14">&#39; &#39;</tspan><tspan x="13.529em" dy="0em" class="st14">(</tspan><tspan
+						x="14.079em 14.629em 15.178em 15.728em 16.278em 16.828em 17.378em 17.927em 18.477em 19.027em" dy="0em"
+						class="st14">ASIGNACION</tspan><tspan x="19.577em" dy="0em" class="st14">|</tspan><tspan x="20.127em 20.677em
+							 21.226em 21.776em 22.326em 22.876em 23.426em 23.975em" dy="0em" class="st14">ARR TIPO</tspan><tspan
+						x="24.525em" dy="0em" class="st14">)</tspan><tspan x="25.075em 25.625em 26.175em" dy="0em" class="st14">&#39;;&#39;<v:newlineChar/></tspan><tspan
+						x="0.333em 0.883em 1.433em 1.983em 2.533em 3.082em 3.632em 4.182em 4.732em 5.282em" dy="1.2em" class="st14">ASIGNACION</tspan><tspan
+						x="5.831em" dy="0em" class="st14">-</tspan><tspan x="6.381em" dy="0em" class="st14">&#62;</tspan><tspan x="
+							6.931em 7.481em 8.031em 8.581em" dy="0em" class="st14">TIPO</tspan><tspan x="9.13em" dy="0em"
+						class="st14">|</tspan><tspan x="9.68em 10.23em 10.78em 11.33em" dy="0em" class="st14">TIPO</tspan><tspan
+						x="11.879em" dy="0em" class="st14">&#39;</tspan><tspan x="12.429em" dy="0em" class="st14">=</tspan><tspan
+						x="12.979em" dy="0em" class="st14">&#39;</tspan><tspan x="13.529em 14.079em 14.629em 15.178em 15.728em"
+						dy="0em" class="st14">VALOR<v:newlineChar/></tspan><tspan x="0.333em 0.883em 1.433em 1.983em 2.533em 3.082em
+							 3.632em 4.182em" dy="1.2em" class="st14">VARIABLE</tspan><tspan x="4.732em" dy="0em" class="st14">-</tspan><tspan
+						x="5.282em 5.831em 6.381em 6.931em" dy="0em" class="st14">&#62;&#39;$&#39;</tspan><tspan x="7.481em 8.031em
+							 8.581em 9.13em 9.68em" dy="0em" class="st14">LETRA</tspan><tspan x="10.23em 10.78em" dy="0em"
+						class="st14">+ </tspan><tspan x="11.33em 11.879em 12.429em 12.979em 13.529em 14.079em" dy="0em"
+						class="st14">DIGITO</tspan><tspan x="14.629em" dy="0em" class="st14">*<v:newlineChar/></tspan><tspan x="
+							0.333em 0.883em 1.433em 1.983em 2.533em 3.082em" dy="1.2em" class="st14">DIGITO</tspan><tspan x="3.632em"
+						dy="0em" class="st14">-</tspan><tspan x="4.182em" dy="0em" class="st14">&#62;</tspan><tspan x="4.732em"
+						dy="0em" class="st14">[</tspan><tspan x="5.282em" dy="0em" class="st14">0</tspan><tspan x="5.831em"
+						dy="0em" class="st14">-</tspan><tspan x="6.381em" dy="0em" class="st14">9</tspan><tspan x="6.931em"
+						dy="0em" class="st14">]<v:newlineChar/></tspan><tspan x="0.333em 0.883em 1.433em 1.983em" dy="1.2em"
+						class="st14">TIPO</tspan><tspan x="2.533em" dy="0em" class="st14">-</tspan><tspan x="3.082em 3.632em"
+						dy="0em" class="st14">&#62;&#39;</tspan><tspan x="4.182em 4.732em 5.282em" dy="0em" class="st14">INT</tspan><tspan
+						x="5.831em 6.381em 6.931em" dy="0em" class="st14">&#39;|&#39;</tspan><tspan x="7.481em 8.031em 8.581em 9.13em
+							 9.68em" dy="0em" class="st14">FLOAT</tspan><tspan x="10.23em 10.78em 11.33em" dy="0em" class="st14">&#39;|&#39;</tspan><tspan
+						x="11.879em 12.429em 12.979em 13.529em 14.079em 14.629em" dy="0em" class="st14">DOUBLE</tspan><tspan x="
+							15.178em 15.728em 16.278em" dy="0em" class="st14">&#39;|&#39;</tspan><tspan x="16.828em 17.378em 17.927em
+							 18.477em 19.027em" dy="0em" class="st14">SHORT</tspan><tspan x="19.577em 20.127em 20.677em" dy="0em"
+						class="st14">&#39;|&#39;</tspan><tspan x="21.226em 21.776em 22.326em 22.876em 23.426em 23.975em" dy="0em"
+						class="st14">BIGINT</tspan><tspan x="24.525em" dy="0em" class="st14">&#39;<v:newlineChar/></tspan><tspan
+						x="0.333em" dy="1.2em" class="st14">#</tspan><tspan x="0.883em 1.433em 1.983em 2.533em 3.082em 3.632em 4.182em
+							 4.732em 5.282em 5.831em" dy="0em" class="st14">DESARROLLO</tspan><tspan x="6.381em" dy="0em"
+						class="st14">-</tspan><tspan x="6.931em" dy="0em" class="st14">&#62;</tspan><tspan x="7.481em 8.031em 8.581em
+							 9.13em" dy="0em" class="st14">ASIG</tspan><tspan x="9.68em" dy="0em" class="st14">_</tspan><tspan x="
+							10.23em 10.78em 11.33em 11.879em" dy="0em" class="st14">ARRE</tspan><tspan x="12.429em 12.979em"
+						dy="0em" class="st14">+ </tspan><tspan x="13.529em 14.079em 14.629em" dy="0em" class="st14">FIN<v:newlineChar/></tspan><tspan
+						x="0.333em 0.883em 1.433em 1.983em" dy="1.2em" class="st14">ASIG</tspan><tspan x="2.533em" dy="0em"
+						class="st14">_</tspan><tspan x="3.082em 3.632em 4.182em 4.732em" dy="0em" class="st14">ARRE</tspan><tspan
+						x="5.282em" dy="0em" class="st14">-</tspan><tspan x="5.831em" dy="0em" class="st14">&#62;</tspan><tspan x="
+							6.381em 6.931em 7.481em 8.031em 8.581em 9.13em 9.68em 10.23em 10.78em 11.33em 11.879em 12.429em 12.979em"
+						dy="0em" class="st14">VARIABLE ARR </tspan><tspan x="13.529em" dy="0em" class="st14">&#39;</tspan><tspan
+						x="14.079em" dy="0em" class="st14">=</tspan><tspan x="14.629em 15.178em" dy="0em" class="st14">&#39; </tspan><tspan
+						x="15.728em 16.278em 16.828em 17.378em 17.927em" dy="0em" class="st14">VALOR</tspan><tspan x="18.477em 19.027em
+							 19.577em" dy="0em" class="st14">&#39;;&#39;<v:newlineChar/></tspan><tspan x="0.333em 0.883em 1.433em"
+						dy="1.2em" class="st14">ARR</tspan><tspan x="1.983em" dy="0em" class="st14">-</tspan><tspan x="2.533em 3.082em"
+						dy="0em" class="st14">&#62;&#39;</tspan><tspan x="3.632em" dy="0em" class="st14">[</tspan><tspan x="4.182em"
+						dy="0em" class="st14">&#39;</tspan><tspan x="4.732em 5.282em 5.831em 6.381em 6.931em 7.481em" dy="0em"
+						class="st14">DIGITO</tspan><tspan x="8.031em" dy="0em" class="st14">+</tspan><tspan x="8.581em" dy="0em"
+						class="st14">&#39;</tspan><tspan x="9.13em" dy="0em" class="st14">]</tspan><tspan x="9.68em" dy="0em"
+						class="st14">&#39;<v:newlineChar/></tspan><tspan x="0.333em" dy="1.2em" class="st14">#</tspan><tspan x="
+							0.883em 1.433em 1.983em" dy="0em" class="st14">FIN</tspan><tspan x="2.533em" dy="0em" class="st14">-</tspan><tspan
+						x="3.082em 3.632em" dy="0em" class="st14">&#62;&#39;</tspan><tspan x="4.182em 4.732em 5.282em 5.831em 6.381em
+							 6.931em" dy="0em" class="st14">WHILE </tspan><tspan x="7.481em" dy="0em" class="st14">(</tspan><tspan
+						x="8.031em 8.581em" dy="0em" class="st14">&#39; </tspan><tspan x="9.13em 9.68em 10.23em 10.78em 11.33em 11.879em
+							 12.429em 12.979em 13.529em 14.079em" dy="0em" class="st14">EXPRESION </tspan><tspan x="14.629em"
+						dy="0em" class="st14">&#39;</tspan><tspan x="15.178em 15.728em" dy="0em" class="st14">) </tspan><tspan x="
+							16.278em 16.828em 17.378em" dy="0em" class="st14">END</tspan><tspan x="17.927em" dy="0em" class="st14">&#39;<v:newlineChar/></tspan><tspan
+						x="0.333em 0.883em 1.433em 1.983em 2.533em 3.082em 3.632em 4.182em 4.732em" dy="1.2em" class="st14">EXPRESION</tspan><tspan
+						x="5.282em" dy="0em" class="st14">-</tspan><tspan x="5.831em" dy="0em" class="st14">&#62;</tspan><tspan x="
+							6.381em" dy="0em" class="st14">(</tspan><tspan x="6.931em 7.481em 8.031em 8.581em 9.13em" dy="0em"
+						class="st14">VALOR</tspan><tspan x="9.68em" dy="0em" class="st14">|</tspan><tspan x="10.23em 10.78em 11.33em
+							 11.879em 12.429em 12.979em 13.529em 14.079em" dy="0em" class="st14">VARIABLE</tspan><tspan x="14.629em"
+						dy="0em" class="st14">)</tspan><tspan x="15.178em 15.728em 16.278em 16.828em 17.378em 17.927em 18.477em 19.027em"
+						dy="0em" class="st14">OPERADOR</tspan><tspan x="19.577em" dy="0em" class="st14">(</tspan><tspan x="20.127em
+							 20.677em 21.226em 21.776em 22.326em" dy="0em" class="st14">VALOR</tspan><tspan x="22.876em" dy="0em"
+						class="st14">|</tspan><tspan x="23.426em 23.975em 24.525em 25.075em 25.625em 26.175em 26.724em 27.274em"
+						dy="0em" class="st14">VARIABLE</tspan><tspan x="27.824em" dy="0em" class="st14">)<v:newlineChar/></tspan><tspan
+						x="0.333em 0.883em 1.433em 1.983em 2.533em" dy="1.2em" class="st14">VALOR</tspan><tspan x="3.082em"
+						dy="0em" class="st14">-</tspan><tspan x="3.632em" dy="0em" class="st14">&#62;</tspan><tspan x="4.182em 4.732em
+							 5.282em 5.831em 6.381em 6.931em" dy="0em" class="st14">DIGITO</tspan><tspan x="7.481em" dy="0em"
+						class="st14">+</tspan><tspan x="8.031em" dy="0em" class="st14">|</tspan><tspan x="8.581em 9.13em 9.68em 10.23em
+							 10.78em 11.33em" dy="0em" class="st14">DIGITO</tspan><tspan x="11.879em" dy="0em" class="st14">*</tspan><tspan
+						x="12.429em" dy="0em" class="st14">&#39;</tspan><tspan x="12.979em" dy="0em" class="st14">.</tspan><tspan
+						x="13.529em" dy="0em" class="st14">&#39;</tspan><tspan x="14.079em 14.629em 15.178em 15.728em 16.278em 16.828em"
+						dy="0em" class="st14">DIGITO</tspan><tspan x="17.378em" dy="0em" class="st14">+<v:newlineChar/></tspan><tspan
+						x="0.333em 0.883em 1.433em 1.983em 2.533em 3.082em 3.632em 4.182em" dy="1.2em" class="st14">OPERADOR</tspan><tspan
+						x="4.732em" dy="0em" class="st14">&#39;</tspan><tspan x="5.282em" dy="0em" class="st14">-</tspan><tspan x="
+							5.831em 6.381em 6.931em 7.481em 8.031em 8.581em 9.13em" dy="0em" class="st14">&#62;&#39;&#60;&#39;|&#60;&#39;</tspan><tspan
+						x="9.68em" dy="0em" class="st14">=</tspan><tspan x="10.23em 10.78em 11.33em 11.879em 12.429em 12.979em 13.529em
+							 14.079em" dy="0em" class="st14">&#39;|&#39;&#62;&#39;|&#39;&#62;</tspan><tspan x="14.629em" dy="0em"
+						class="st14">=</tspan><tspan x="15.178em 15.728em 16.278em" dy="0em" class="st14">&#39;|&#39;</tspan><tspan
+						x="16.828em 17.378em" dy="0em" class="st14">==</tspan><tspan x="17.927em 18.477em 19.027em" dy="0em"
+						class="st14">&#39;|&#39;</tspan><tspan x="19.577em 20.127em" dy="0em" class="st14">!=</tspan><tspan x="20.677em"
+						dy="0em" class="st14">&#39;</tspan></text>		</g>
+		<g id="shape318-1091" v:mID="318" v:groupContext="shape" transform="translate(763.311,-709.388)">
+			<title>Hoja.318</title>
+			<desc>DEFINE PROGRAM &#60;nombre programa&#62; () $&#60;variable1&#62; &#60;tipo de dat...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="229.043" cy="844.183" width="458.09" height="232.591"/>
+			<rect x="0" y="727.888" width="458.087" height="232.591" class="st12"/>
+			<text x="0.333em 0.883em 1.433em 1.983em 2.533em 3.082em 3.632em 4.182em 4.732em 5.282em 5.831em 6.381em 6.931em 7.481em
+						 8.031em" y="782.98" class="st13" v:langID="3082"><v:paragraph v:horizAlign="3"/><v:tabList/>DEFINE PROGRAM <tspan
+						x="8.581em" dy="0em" class="st14">&#60;</tspan><tspan x="9.13em 9.68em 10.23em 10.78em 11.33em 11.879em 12.429em
+							 12.979em 13.529em 14.079em 14.629em 15.178em 15.728em 16.278em 16.828em" dy="0em" class="st14">nombre programa</tspan><tspan
+						x="17.378em 17.927em" dy="0em" class="st14">&#62; </tspan><tspan x="18.477em 19.027em" dy="0em"
+						class="st14">()<v:newlineChar/><v:tabChar/></tspan><tspan x="3.877em 4.426em" dy="1.2em" class="st14">$&#60;</tspan><tspan
+						x="4.976em 5.526em 6.076em 6.626em 7.176em 7.725em 8.275em 8.825em" dy="0em" class="st14">variable</tspan><tspan
+						x="9.375em" dy="0em" class="st14">1</tspan><tspan x="9.925em 10.474em 11.024em" dy="0em" class="st14">&#62; &#60;</tspan><tspan
+						x="11.574em 12.124em 12.674em 13.223em 13.773em 14.323em 14.873em 15.423em 15.973em 16.522em 17.072em 17.622em"
+						dy="0em" class="st14">tipo de dato</tspan><tspan x="18.172em" dy="0em" class="st14">&#62;</tspan><tspan x="
+							18.722em" dy="0em" class="st14">=</tspan><tspan x="19.271em" dy="0em" class="st14">&#60;</tspan><tspan
+						x="19.821em 20.371em 20.921em 21.471em 22.021em 22.57em 23.12em 23.67em 24.22em 24.77em 25.319em 25.869em
+							 26.419em 26.969em 27.519em" dy="0em" class="st14">valor a asignar</tspan><tspan x="28.069em 28.618em"
+						dy="0em" class="st14">&#62;;<v:newlineChar/><v:tabChar/></tspan><tspan x="3.877em 4.426em" dy="1.2em"
+						class="st14">$&#60;</tspan><tspan x="4.976em 5.526em 6.076em 6.626em 7.176em 7.725em 8.275em 8.825em"
+						dy="0em" class="st14">variable</tspan><tspan x="9.375em" dy="0em" class="st14">2</tspan><tspan x="9.925em
+							 10.474em 11.024em" dy="0em" class="st14">&#62; &#60;</tspan><tspan x="11.574em 12.124em 12.674em 13.223em
+							 13.773em 14.323em 14.873em 15.423em 15.973em 16.522em 17.072em 17.622em" dy="0em" class="st14">tipo de dato</tspan><tspan
+						x="18.172em" dy="0em" class="st14">&#62;</tspan><tspan x="18.722em" dy="0em" class="st14">=</tspan><tspan
+						x="19.271em" dy="0em" class="st14">&#60;</tspan><tspan x="19.821em 20.371em 20.921em 21.471em 22.021em 22.57em
+							 23.12em 23.67em 24.22em 24.77em 25.319em 25.869em 26.419em 26.969em 27.519em" dy="0em" class="st14">valor a asignar</tspan><tspan
+						x="28.069em 28.618em" dy="0em" class="st14">&#62;;<v:newlineChar/><v:tabChar/></tspan><tspan x="3.877em 4.426em"
+						dy="1.2em" class="st14">$&#60;</tspan><tspan x="4.976em 5.526em 6.076em 6.626em 7.176em 7.725em 8.275em 8.825em"
+						dy="0em" class="st14">variable</tspan><tspan x="9.375em" dy="0em" class="st14">3</tspan><tspan x="9.925em
+							 10.474em" dy="0em" class="st14">&#62; </tspan><tspan x="11.024em" dy="0em" class="st14">[</tspan><tspan
+						x="11.574em" dy="0em" class="st14">2</tspan><tspan x="12.124em 12.674em" dy="0em" class="st14">] </tspan><tspan
+						x="13.223em" dy="0em" class="st14">&#60;</tspan><tspan x="13.773em 14.323em 14.873em 15.423em 15.973em 16.522em
+							 17.072em 17.622em 18.172em 18.722em 19.271em 19.821em" dy="0em" class="st14">tipo de dato</tspan><tspan
+						x="20.371em 20.921em" dy="0em" class="st14">&#62;;<v:newlineChar/><v:tabChar/></tspan><tspan x="3.877em 4.426em"
+						dy="1.2em" class="st14">DO<v:newlineChar/><v:tabChar/><v:tabChar/></tspan><tspan x="7.42em 7.97em"
+						dy="1.2em" class="st14">$&#60;</tspan><tspan x="8.52em 9.069em 9.619em 10.169em 10.719em 11.269em 11.818em
+							 12.368em" dy="0em" class="st14">variable</tspan><tspan x="12.918em" dy="0em" class="st14">3</tspan><tspan
+						x="13.468em 14.018em" dy="0em" class="st14">&#62; </tspan><tspan x="14.567em" dy="0em" class="st14">[</tspan><tspan
+						x="15.117em" dy="0em" class="st14">0</tspan><tspan x="15.667em 16.217em" dy="0em" class="st14">]=</tspan><tspan
+						x="16.767em" dy="0em" class="st14">1</tspan><tspan x="17.317em" dy="0em" class="st14">;<v:newlineChar/><v:tabChar/><v:tabChar/></tspan><tspan
+						x="7.42em 7.97em" dy="1.2em" class="st14">$&#60;</tspan><tspan x="8.52em 9.069em 9.619em 10.169em 10.719em
+							 11.269em 11.818em 12.368em" dy="0em" class="st14">variable</tspan><tspan x="12.918em" dy="0em"
+						class="st14">3</tspan><tspan x="13.468em 14.018em" dy="0em" class="st14">&#62; </tspan><tspan x="14.567em"
+						dy="0em" class="st14">[</tspan><tspan x="15.117em" dy="0em" class="st14">1</tspan><tspan x="15.667em 16.217em"
+						dy="0em" class="st14">]=</tspan><tspan x="16.767em" dy="0em" class="st14">3</tspan><tspan x="17.317em"
+						dy="0em" class="st14">;<v:newlineChar/><v:tabChar/><v:tabChar/></tspan><tspan x="7.42em 7.97em" dy="1.2em"
+						class="st14">$&#60;</tspan><tspan x="8.52em 9.069em 9.619em 10.169em 10.719em 11.269em 11.818em 12.368em"
+						dy="0em" class="st14">variable</tspan><tspan x="12.918em" dy="0em" class="st14">3</tspan><tspan x="13.468em
+							 14.018em" dy="0em" class="st14">&#62; </tspan><tspan x="14.567em" dy="0em" class="st14">[</tspan><tspan
+						x="15.117em" dy="0em" class="st14">2</tspan><tspan x="15.667em 16.217em" dy="0em" class="st14">]=</tspan><tspan
+						x="16.767em 17.317em" dy="0em" class="st14">19</tspan><tspan x="17.866em" dy="0em" class="st14">;<v:newlineChar/><v:tabChar/></tspan><tspan
+						x="3.877em 4.426em 4.976em 5.526em 6.076em 6.626em" dy="1.2em" class="st14">WHILE </tspan><tspan x="7.176em"
+						dy="0em" class="st14">(</tspan><tspan x="7.725em 8.275em" dy="0em" class="st14">$&#60;</tspan><tspan x="
+							8.825em 9.375em 9.925em 10.474em 11.024em 11.574em 12.124em 12.674em" dy="0em" class="st14">variable</tspan><tspan
+						x="13.223em" dy="0em" class="st14">1</tspan><tspan x="13.773em 14.323em 14.873em" dy="0em" class="st14">&#62; &#60;</tspan><tspan
+						x="15.423em 15.973em 16.522em 17.072em 17.622em 18.172em 18.722em 19.271em" dy="0em" class="st14">operador</tspan><tspan
+						x="19.821em 20.371em 20.921em 21.471em" dy="0em" class="st14">&#62; $&#60;</tspan><tspan x="22.021em 22.57em
+							 23.12em 23.67em 24.22em 24.77em 25.319em 25.869em" dy="0em" class="st14">variable</tspan><tspan x="
+							26.419em" dy="0em" class="st14">2</tspan><tspan x="26.969em" dy="0em" class="st14">&#62;</tspan><tspan
+						x="27.519em" dy="0em" class="st14">)<v:newlineChar/></tspan><tspan x="0.333em 0.883em 1.433em" dy="1.2em"
+						class="st14">END</tspan></text>		</g>
+		<g id="shape319-1169" v:mID="319" v:groupContext="shape" v:layerMember="1" transform="translate(398.268,-270.709)">
+			<title>Proceso (círculo).319</title>
+			<desc>18</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Coste" v:type="7" v:format="@" v:langID="3082"/>
+				<v:cp v:nameU="Duration" v:lbl="Duración" v:type="2" v:langID="3082"/>
+				<v:cp v:nameU="Resources" v:lbl="Recursos" v:langID="3082"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="943.47" width="34.02" height="34.0157"/>
+			<path d="M0 943.47 A17.0079 17.0079 0 0 1 34.02 943.47 A17.0079 17.0079 0 1 1 0 943.47 Z" class="st7"/>
+			<text x="10.64" y="948.87" class="st8" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>18</text>		</g>
+		<g id="shape320-1173" v:mID="320" v:groupContext="shape" v:layerMember="0"
+				transform="translate(938.517,1490.95) rotate(151.62)">
+			<title>Línea dirigida 1.320</title>
+			<desc>tIpo</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.2457" cy="971.817" width="56.7" height="17.0079" transform="rotate(-180)"/>
+			<path d="M0 960.48 L50.33 960.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-38.2623" y="-979.017" width="20.0333" height="14.4001" transform="rotate(180)"
+					class="st5"/>
+			<text x="-38.26" y="-968.22" transform="rotate(180)" class="st6" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>tIpo</text>		</g>
+	</g>
+</svg>

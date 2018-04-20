@@ -1,0 +1,10 @@
+     DEFINE PROGRAM <nombre programa> ()
+	$<variable1> <tipo de dato>=<valor a asignar>;
+	$<variable2> <tipo de dato>=<valor a asignar>;
+	$<variable3> [2] <tipo de dato>;
+	DO
+		$<variable3> [0]=1;
+		$<variable3> [1]=3;
+		$<variable3> [2]=19;
+	WHILE ($<variable1> <operador> $<variable2>)
+END
