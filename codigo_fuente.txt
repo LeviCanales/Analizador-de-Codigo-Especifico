@@ -1,7 +1,7 @@
 DEFINE PROGRAM    WhastUpp122    ()   
-	$<variable1> <tipo de dato>=<valor a asignar>;
-	$<variable2> <tipo de dato>=<valor a asignar>;
-	$<variable3> [2] <tipo de dato>;
+	$hola11 FLOAT = .5;
+	$WHAT DOUBLE =  10;
+	$sa [25] INT;
 	     DO      
 		$<variable3> [0]=1;
 		$<variable3> [1]=3;
