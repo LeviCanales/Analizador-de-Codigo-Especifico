@@ -1,10 +1,10 @@
 DEFINE PROGRAM    WhastUpp122    ()   
 	$hola11 FLOAT = .5;
-	$WHAT DOUBLE =  10;
-	$sa [25] INT;
+	$WHAT DOUBLE = 10.3;
+	$sa [25] INT;  
 	     DO      
-		$<variable3> [0]=1;
-		$<variable3> [1]=3;
-		$<variable3> [2]=19;
-	WHILE ($<variable1> <operador> $<variable2>)
+             $WHAT [0]=15 ;
+        $WHAT = .3 ;
+        $sa  [2]=19.4; 
+	   WHILE   ($<variable1> <operador> $<variable2>)
 END

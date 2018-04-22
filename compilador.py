@@ -4,7 +4,6 @@ import re
 #tuplas de terminales
 tipos = 'INT','FLOAT','DOUBLE','SHORT','BIGINT'
 operadores = '<','<=','>','>=','==','!='
-otros = 'DEFINE PROGRAM ','WHILE (',') END'
 #lectura de archivo
 file = open("codigo_fuente.txt")
 #variables de trabajo
@@ -16,11 +15,11 @@ state_code = ''
 variables = []
 try:
     #¿esta bien la parte del 'DEFINE PROGRAM '?
-    if(work_file.startswith(otros[0])):
-        state_code += '✔ '+ otros[0]
-        work_file = work_file.lstrip(otros[0])
+    if(work_file.startswith('DEFINE PROGRAM ')):
+        state_code += '✔ '+ 'DEFINE PROGRAM '
+        work_file = work_file.lstrip('DEFINE PROGRAM ')
     else:
-        state_code += '✘ '+'"'+otros[0]+'"'+ ' No encontrado de forma correcta.'
+        state_code += '✘ '+'"'+'DEFINE PROGRAM '+'"'+ ' No encontrado de forma correcta.'
         raise NameError(state_code)
     #Ver si esta bien el patron number y el ()
     work_file = work_file.split('()',1)
@@ -40,11 +39,11 @@ try:
         work_file = work_file.split(work_file[match.start()+1:match.end()-1],1)
         work_file[0] =  work_file[0].split(';')
         work_file[0].pop()
-        #print(work_file[0])
+        #ver si las variables son correctas y estan bien asignadas
         for i in range(len(work_file[0])):
-            match=re.search(r"^\$[a-zA-Z]+[0-9]*( )*(("+'|'.join(tipos)+")|(\[[0-9]*\]( )*("+'|'.join(tipos)+")))(( )*=( )*[0-9]*(\.[0-9]+)?)?( )*;$",work_file[0][i].strip()+';')
+            match=re.search(r"^\$[a-zA-Z]+[0-9]*( )*(("+'|'.join(tipos)+")|(\[[0-9]*\]( )*("+'|'.join(tipos)+")))(( )*=( )*(([0-9]+.[0-9]+)|[0-9]+|(\.[0-9]+)))?( )*;$",work_file[0][i].strip()+';')
             if match:
-                #print(match.group())
+                #revisa si el arreglo esta bien declarado.
                 if(re.search(r"^\$[a-zA-Z]+[0-9]*( )*(\[[0-9]*\]( )*("+'|'.join(tipos)+"))( )*=",work_file[0][i].strip())):
                     state_code = '✘ '+ work_file[0][i]+ ' El arreglo no se asigna de esta forma.'
                     raise NameError(state_code)
@@ -58,10 +57,39 @@ try:
         #print(variables)
         state_code +='\n'+ '✔ '+'DO'
         work_file = work_file[1].lstrip()
-        print(work_file)
-        print(state_code)
+        #print(work_file)
+        #print(state_code)
     else:
         state_code = '✘ '+ 'Revise su "DO" y alrededor'
+        raise NameError(state_code)
+    #revisar las instrucciones dentro del DO WHILE:
+    work_file = 'DO '+work_file #por si no hay instrucciones, vamos a dejar opcional el ponerlas.
+    match = re.search(r"(O|;)( )*WHILE( )*\(",(work_file))
+    if match:
+        print(match.group())
+        work_file = list(work_file.partition(work_file[match.start()+1:match.end()-1].strip()))
+        work_file[0]=work_file[0].lstrip('DO ') #quitar el DO que se uso para lo anterior
+        work_file[0] =  work_file[0].split(';')
+        work_file[0].pop()
+        for i in range(len(work_file[0])):
+            match = re.search(r"^\$[a-zA-Z]+[0-9]*( )*(\[[0-9]*\])?( )*=( )*(([0-9]+.[0-9]+)|[0-9]+|(\.[0-9]+))( )*;$",work_file[0][i].strip()+';')
+            # print('np '+work_file[0][i].strip())
+            if match:
+                print(match.group())
+                #ver si existen las variables
+                if re.search(r"\$[a-zA-Z]+[0-9]*",work_file[0][i]).group() in variables:
+                    state_code +='\n'+ '✔ '+match.group().strip()
+                else:
+                    state_code = '✘ '+ work_file[0][i]+ ' esta variable no se declaro antes'
+                    raise NameError(state_code)
+            else:
+                state_code = '✘ '+ work_file[0][i]+ ' esta declaracion hay que revisarla'
+                raise NameError(state_code)
+        print(state_code)
+        work_file.pop(0)
+        print(''.join(work_file))
+    else:
+        state_code = '✘ '+ 'Revise su "WHILE" y alrededor'
         raise NameError(state_code)
 except:
     raise
