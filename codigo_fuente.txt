@@ -6,5 +6,5 @@ DEFINE PROGRAM    WhastUpp122    ()
              $WHAT [0]=15 ;
         $WHAT = .3 ;
         $sa  [2]=19.4; 
-	   WHILE   ($<variable1> <operador> $<variable2>)
+	   WHILE   (  $WHAT == $hola11  )
 END
